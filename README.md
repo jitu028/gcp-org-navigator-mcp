@@ -1,4 +1,4 @@
-# GCP Org Navigator — ADK + MCP POC
+# GCP Org Navigator — ADK + MCP
 
 An AI agent that lets you query your **GCP organization hierarchy** (organizations, folders, projects, IAM policies) in plain English — built with [Google Agent Development Kit (ADK)](https://adk.dev) and a custom [MCP](https://modelcontextprotocol.io) server backed by the Cloud Resource Manager API.
 
